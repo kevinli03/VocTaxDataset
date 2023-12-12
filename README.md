@@ -50,4 +50,9 @@ The social expenditure as % of GDP of a country in a given year. Obtained from O
 The exports as % of GDP of a country in a given year. Obtained from OECD. <sup>2</sup>
 
 ## References
+<sup>1</sup> Witt, M. A., de Castro, L. R. K., Amaeshi, K., Mahroum, S., Bohle, D., and Saez, L. (2018) ‘Mapping the business systems of 61 major economies: a taxonomy and implications for varieties of capitalism and business systems research’, Socio-Economic Review, 16(1), pp. 5-38.
+<sup>2</sup> OECD.stat (no date). Available at: https://stats.oecd.org/ (Accessed 02 December 2023).
+<sup>3</sup> OECD (2023). ‘Taxing Wages, Indexation of Labour Taxation and Benefits in OECD Countries’, OECD. Available at: https://www.oecd.org/tax/tax-policy/taxing-wages-brochure.pdf (Accessed 05 December 2023).
+<sup>4</sup> KOF Economic Research Center (2023) 'KOF Globalization Index'. Available at: https://kof.ethz.ch/prognosen-indikatoren/indikatoren/kof-globalisierungsindex.html (Accessed 02 December 2023).
+<sup>5</sup> KOF Econmomic Research Center (2023) '2023 Globalisation Index: Structure, variables and weights'. Available at: https://ethz.ch/content/dam/ethz/special-interest/dual/kof-dam/documents/Globalization/2023/KOFGI_2023_structure.pdf
 
