@@ -61,5 +61,5 @@ The exports as % of GDP of a country in a given year. Obtained from OECD. <sup>2
 
 <sup>4</sup> KOF Economic Research Center (2023) 'KOF Globalization Index'. Available at: https://kof.ethz.ch/prognosen-indikatoren/indikatoren/kof-globalisierungsindex.html (Accessed 02 December 2023).
 
-<sup>5</sup> KOF Econmomic Research Center (2023) '2023 Globalisation Index: Structure, variables and weights'. Available at: https://ethz.ch/content/dam/ethz/special-interest/dual/kof-dam/documents/Globalization/2023/KOFGI_2023_structure.pdf
+<sup>5</sup> KOF Econmomic Research Center (2023) '2023 Globalisation Index: Structure, variables and weights'. Available at: https://ethz.ch/content/dam/ethz/special-interest/dual/kofdam/documents/Globalization/2023/KOFGI_2023_structure.pdf (Accessed 05 December 2023).
 
