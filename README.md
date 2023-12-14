@@ -4,7 +4,7 @@ Created for: 6SSPP330 Economic Policy-Making (King's College London, 2023-2024 F
 Candidate Number: AE05750
 
 ## Overview
-This is a dataset consisting of OECD countries that are Liberal or Coordinated Market Econmies. It consists of their Variety of Capitalism (Liberal Market Economy or Coordinated Market Economy), a few measurements of tax policy, and several relevant control variables. The data is from 2004-2020.
+This is a dataset consisting of OECD countries that are Liberal or Coordinated Market Economies. It consists of their Variety of Capitalism (Liberal Market Economy or Coordinated Market Economy), a few measurements of tax policy, and several relevant control variables. The data is from 2004-2020.
 In this repository, you will find:
 * The Dataset (In EXCEL, CSV, and STATA form). See 'dataset' folder.
 * List of sources of the data (see below).
@@ -22,7 +22,7 @@ The ID of the observation. Each country-time observation gets its own unique ID
 The ID of the country. Each country in the dataset is assigned an ID. Does not follow international Country ID standards. To use with other data, use the 'countrycode' variable. I may update this eventually to QoG standards.
 
 ### countrycode
-The country code of each country. Each country in the dataset is assigned a country code. Follows ISO 3166-1 alpha-3 Three letter code standards.
+The country code of each country. Each country in the dataset is assigned a country code. Follows ISO 3166-1 alpha-3 three letter code standards.
 
 ### year
 The year of the observation. Ranges between 2004 to 2020.
@@ -43,7 +43,7 @@ The net personal marginal tax rate: principal earner (% gross wage earnings) of 
 The economic globalisation indictor from the KOF Index of Globalisation.<sup>4</sup> This is calculated through a combination of trade and financial globalisation. <sup>5</sup>
 
 ### gini
-The income gini coefficient of a country in a given year. Obtained from OECD. <sup>2</sup>
+The income Gini coefficient of a country in a given year. Obtained from OECD. <sup>2</sup>
 
 ### socialexp
 The social expenditure as % of GDP of a country in a given year. Obtained from OECD. <sup>2</sup>
